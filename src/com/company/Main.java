@@ -10,4 +10,14 @@ public class Main {
         System.out.println( i + " 和 " + j + " 比较，最大值是：" + k);
     }
 
+//    /** 返回两个整数变量较大的值 */
+//    public static int max(int num1, int num2) {
+//        int result;
+//        if (num1 > num2) {
+//            result = num1;
+//        } else
+//            result = num2;
+//
+//        return result;
+//    }
 }
